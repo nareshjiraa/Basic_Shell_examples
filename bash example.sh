@@ -1,6 +1,6 @@
 
-name="Naresh"
-age=32
+name=$1
+age=$2
 
 if [ $age -gt 18 ]; then
   echo "You are an adult."
