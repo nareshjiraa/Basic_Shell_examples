@@ -6,3 +6,4 @@ age=32
 echo "Hello World"
 
 echo "My Name is $name"
+echo "My age is $age"
